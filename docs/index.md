@@ -151,7 +151,7 @@ BBC micro:bit
 
     ### Présentation de l'environnement de travail :
     
-    - Dépot [GitHub](https://github.com/ericECmorlaix/2SI-2022-2023){target="_blank"} qui héberge ce site ;
+    - Dépot [GitHub](https://github.com/ericECmorlaix/2SI_2022-2023){target="_blank"} qui héberge ce site ;
     - Organisation du Labo de SI ;
     - Applications iPad utiles : **Carnets**, **Obsidian**, Mindomo, Sketchbook, **EV3 Classroom**, OnShape, ...   
 
@@ -175,8 +175,8 @@ BBC micro:bit
 
     ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
 
-    - **Découvrir** plus avant les fonctionnalités de base des [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb){target=_blank} pour **améliorer** votre fiche d'informations et la **retransmettre** par [mail] ;
-        
+    - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb){target=_blank} pour **améliorer** votre fiche d'informations et la **retransmettre** par [mail] ;
+
     - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
 

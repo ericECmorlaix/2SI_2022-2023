@@ -5,7 +5,7 @@ Un notebook jupyter permet de rapidement publier un compte rendu scientifique mu
 
 Voici ci dessous des exemples pour explorer quelques fonctionnalités :
 
-> Cliquer sur le lien vers [Nom_Prenom-fiche.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI-2022-2023/Nom_Prenom-fiche.ipynb){.md-button} pour visualiser le notebook sur le Web et/ou cliquer sur le bouton [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI-2022-2023/Nom_Prenom-fiche.ipynb){ .md-button .md-button--primary} pour le télécharger sur votre appareil.
+> Cliquer sur le lien vers [Nom_Prenom-fiche.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Nom_Prenom-fiche.ipynb){.md-button} pour visualiser le notebook sur le Web et/ou cliquer sur le bouton [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Nom_Prenom-fiche.ipynb){ .md-button .md-button--primary} pour le télécharger sur votre appareil.
 
 - [Découverte](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/decouverte-notebook.ipynb){target=_blank .md-button} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/decouverte-notebook.ipynb){ .md-button .md-button--primary}
 
