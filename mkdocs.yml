@@ -24,6 +24,7 @@ nav:
     - Cahier de texte : index.md    
     # - Fiche d'information : Nom_Prenom-fiche.ipynb    
     - Notebook jupyter : notebook.md
+    - Modélisation 3D : blocksCAD.md
 
         
     #   - La spécialité SI : presentation_SI.md
