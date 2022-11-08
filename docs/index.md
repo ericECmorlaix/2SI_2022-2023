@@ -134,6 +134,31 @@
 - **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
 
 -->
+***
+## Le 08/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse "Instrument",""Show lumineux 2"", "Avertisseur"  de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - Synthèse Modélisation 3D avec [BlocksCAD](./blocksCAD){target="_blank"} -> ==**Défin n°2 : Modéliser un support imprimable**== ;
+
+    - Présentation d'un [tutoriel pour l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==Avec l'aide de ShortCut d'automatisation [Capter idée](https://www.icloud.com/shortcuts/40a6686913734aaca605dc1081791336) et [Partager Média](https://www.icloud.com/shortcuts/6285c561258343bfb06b6b58a1956258) collecter des données sur une note du jour dans votre coffre d'Obsidian localisé sur votre iPad== ;
+
+    
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et compléter progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](./blocksCAD){target="_blank"} ;
+
+    - **Jouer** à résoudre le Casse Tête en ligne [ici (code JavaScript)](http://isn.si.lycee.ecmorlaix.fr/casseTete/){target=_blank} ou encore [là (code Scratch)](https://scratch.mit.edu/projects/179937454/){target=_blank} ;
+***
 ## Le 18/10
 
 === "CONTENU DE SÉANCE"
