@@ -20,90 +20,6 @@
 
 
 
-## Les 08 et 15/03 :
-
-- **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
-
-***
-## Les 22/02 et 01/03 :
-
-- **​Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
-    1. **Hello !** => expérimenter afin d'expliquer comment fonctionne la communication avec la brique depuis une tablette et depuis un PC...  ;​​​​​
-    2. **Moteurs et capteurs** => programmer les différents capteurs et moteurs disponibles afin d'expliquer leur fonctionnement... ;
-    3. **Se déplacer** => construire et programmer une base motrice afin d'expliquer le déplacement produit par les différentes instructions... ;
-    4. **Fichier > Nouveau Projet**  =>  créer une nouvelle trame de programmation personnalisée et la partager...
-
-***
-## Le 01/02 :
-
-### Activités :
-
-- Retour sur l'application [PYRATES](https://py-rates.fr/) afin de lever et résoudre les difficultés rencontrées ;
-
-- Poursuite de la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et la complétion du notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​ ;
-
-### Prolongements durant les vacances pour le 22/02 :
-
-- Finir tous les niveaux de [PYRATES](https://py-rates.fr/) ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
-
-- Finir la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
-
-
-***
-## Le 25/01 :
-
-### Activités :
-
-- Découverte de la [modélisation 3D](modelisation_3D) avec BlocksCAD et/ou TinkerCAD-CodeBlocks (code de la classe C8K89DHD4Y7K) ;
-
-### Prolongements pour le 01/02 :
-
-- Poursuivre plus avant l'activité de [modélisation 3D](modelisation_3D)...
-
-- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
-
-- Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
-
-***
-
-## Le 18/01 :
-
-### Activités :
-
-- Point d'avancement quant à la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et la complétion du notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​ ;
-
-- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
-
-
-### Prolongements :
-
-- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
-
-- Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
-
-
-***
-## Le 11/01 :
-
-### Activités :
-
-#### Remédiation [Prise en main des notebook jupyter](./#prise-en-main-des-notebook-jupyter-pour-communiquer-un-compte-rendu) ;
-
-#### Découvrir la programmation des objets connectés :
-
-- avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code fourni​​​ pour le **Parcours_1** ;
-
-- **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
-
-​> **notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre ;
-
-### Prolongements, à faire pour le 18/01 :
-
-- Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
-
-- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... 
-
-
 ## Le 07/06 :
 
 - **Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
@@ -114,32 +30,35 @@
 
 ***
 
-## Le 31/05 :
-
-### Activités :
-
-- Découverte de la [modélisation 3D](./modelisation_3D) avec BlocksCAD et/ou TinkerCAD-CodeBlocks (code de la classe C8K89DHD4Y7K) ;
-
-### Prolongements pour le 07/06 :
-
-- Poursuivre plus avant l'activité de [modélisation 3D](modelisation_3D)...
-
-- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
-
-
-
-
-## Le 17/05
-
-- **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
-
 -->
+***
+## Le 15/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse "Instrument","Avertisseur", "Servo chronométré" de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - Synthèse Modélisation 3D avec [BlocksCAD](./blocksCAD){target="_blank"} -> ==**Défin n°2 : Modéliser un support imprimable**== ;
+
+    - **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et compléter progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](./blocksCAD){target="_blank"} ;
+
+
 ***
 ## Le 08/11
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse "Instrument",""Show lumineux 2"", "Avertisseur"  de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    - Synthèse "Show lumineux 2" de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
     - Synthèse Modélisation 3D avec [BlocksCAD](./blocksCAD){target="_blank"} -> ==**Défin n°2 : Modéliser un support imprimable**== ;
 
@@ -271,20 +190,6 @@
     - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
 
-***
-<!-- 
-## Le 29/03 :
-
-### Activités :
-
-- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/){target=_blank} : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
-
-
-### Prolongements pour le 26/04 :
-
-
-- **Finir** tous les niveaux de [PYRATES](https://py-rates.fr/){target=_blank} ;
- -->
 
 
 

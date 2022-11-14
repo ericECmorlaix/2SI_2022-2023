@@ -6,7 +6,7 @@
 
 BBC micro:bit est un mini-ordinateur programmable de poche (une carte à [microcontrôleur](https://fr.wikipedia.org/wiki/Microcontr%C3%B4leur)) conçu pour développer votre créativité avec la technologie.
 
-??? info "Kesako ? ..."
+???- info "Kesako ? ..."
     ![bbc-microbit-revue](./images/bbc-microbit-revue.png){ align=left width=70% }
     
     Ce petit appareil intègre beaucoup de fonctionnalités : il a 25 LED rouges qui peuvent afficher des messages, et deux boutons programmables pouvant être utilisés pour contrôler des jeux, ou, par exemple, faire une pause et sauter des chansons sur une liste de lecture ;
@@ -32,7 +32,7 @@ BBC micro:bit est un mini-ordinateur programmable de poche (une carte à [microc
     A peu près tout ce que votre imagination peut créer en utilisant des capteurs supplémentaires, en réalisant un boitier ou un support pour la carte, et en programmant son microcontroleur.
 
 
-??? info "Historique ..."
+???- info "Historique ..."
 
     La BBC a initié en 2015 le projet Micro:bit, qui se veut être un nano-ordinateur à carte unique à processeur ARM destiné à l’éducation.  
     L’objectif de cette dernière : fournir à chaque écolier de 12 ans (« year 7 ») un support amusant et facile à utiliser.
@@ -75,28 +75,23 @@ BBC micro:bit est un mini-ordinateur programmable de poche (une carte à [microc
 
 Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous allons utiliser celles basées sur MicroPython une version allégée de Python créée par Damien George pour la programmation de certains microcontôleurs dont celui du BBC micro:bit.
 
-- On peut débuter avec l'éditeur en ligne [https://app.edublocks.org/](https://app.edublocks.org/){target=_blank} pour générer un script en python à partir des blocs d'instructions. Le principe consiste à glisser/déposer des blocs d'instructions du menu de gauche dans la zone graphique pour obtenir le code Python correspondant.
+On peut désormais utiliser le nouvel éditeur micropython officiel [https://python.microbit.org/](https://python.microbit.org/){target=_blank} qui possède un simulateur intégré...
+
+Le principe consiste à :
+
+1. glisser/déposer des bouts de code du menu de gauche dans la zone centrale d'édition ;
+2. tester le résultat de ces instructions dans le simulateur ;
+3. modifier le code dans l'éditeur pour répondre au besoin ;
+4. vérifier le résultat de votre script dans le simulateur ;
+5. transférer votre programme dans une carte BBC micro:bit raccordée au PC avec un cable USB ;
+6. expérimenter sur le matériel réel ;
+7. recommencer jusqu'à validation des exigences du cdcf...
+
+> **Ressource** : [Python Editor : Guide](https://support.microbit.org/support/solutions/articles/19000135210-python-editor-guide#overview){target=_blank}
 
 <figure>
-<iframe width='1080' height='720' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://app.edublocks.org/"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mREwMW69qKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-- Ensuite, pour tester un programme par simulation, on peut copier/coller le code en Python dans le simulateur de [https://create.withcode.uk/](https://create.withcode.uk/){target=_blank} et puis on clique sur le bouton `Run` ou la combinaison de touches `Ctrl+Entrée` pour l'exécuter...
-
-- Enfin, pour valider un programme sur le matériel réel :
-    - on raccorde une carte BBC micro:bit avec un cable sur un port USB de l'ordinateur. Le PC doit reconnaitre la carte comme un nouveau lecteur nommé : `MICROBIT (E:)` ;
-    - on ouvre l'éditeur micropython officiel [https://python.microbit.org/](https://python.microbit.org/){target=_blank} ;
-    - on cliquer sur le bouton `Connect`, et on sélectionne la carte `"BBC micro:bit CMSIS-DAP"` à associer, puis on clique sur le bouton `Connexion` pour établir la communication ;
-    - Une fois connecté, on clique sur le bouton `Flash` pour charger le programme qui s'exécutera dès que la LED jaune située à l'arrière de la carte aura fini de clignoter ;
-    - Pour revoir le résultat du programme une nouvelle fois, il faut redémarrer le BBC micro:bit en appuyant sur le bouton `RESET` situé à l'arrière de la carte...
-
-
-
-> **Autres solutions :**
->
-> - [microsoft makecode](https://makecode.microbit.org/){target=_blank}
-> - [vittascience](https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1){target=_blank}
-> - [editeur python microbit](https://python.microbit.org/v/2){target=_blank}
 
 
 ## Défis à relever
@@ -104,7 +99,7 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
 
 ### Smiley
 
-S'inscrire sur [edublocks](https://app.edublocks.org/){target=_blank} et faire afficher un Smiley sur la matrice des 25 Leds...
+Faire afficher un Smiley sur la matrice des 25 Leds...
 
 ![](./images/bbc-Smiley.gif){ .center}
 
@@ -162,7 +157,6 @@ Développer un programme pour qu'après avoir été secoué la carte BBC micro:b
 ![](./images/bbc-ciseaux.png){ .center}
 
 
-
 ### Autres défis
 
 Essayer d'autres choses en vous inspirant par exemple de :
@@ -195,6 +189,26 @@ Pour aller plus loins en programmation Python avec la carte BBC micro:bit :
 - <https://matthieu-branthome.github.io/activite/#d%C3%A9fi-1-le-smiley>
 
 
+
+???- info "Autres solutions de programmation :"
+
+    1. On peut débuter avec l'éditeur en ligne [https://app.edublocks.org/](https://app.edublocks.org/){target=_blank} pour générer un script en python à partir des blocs d'instructions. Le principe consiste à glisser/déposer des blocs d'instructions du menu de gauche dans la zone graphique pour obtenir le code Python correspondant.
+    2. pour tester un programme par simulation, on peut copier/coller le code en Python dans le simulateur de [https://create.withcode.uk/](https://create.withcode.uk/){target=_blank} et puis on clique sur le bouton `Run` ou la combinaison de touches `Ctrl+Entrée` pour l'exécuter...
+    3. Enfin, pour valider un programme sur le matériel réel :
+        - on raccorde une carte BBC micro:bit avec un cable sur un port USB de l'ordinateur. Le PC doit reconnaitre la carte comme un nouveau lecteur nommé : `MICROBIT (E:)` ;
+        - on ouvre l'ancien éditeur micropython officiel [https://python.microbit.org/v/2](https://python.microbit.org/v/2){target=_blank} ;
+        - on clique sur le bouton `Connect`, et on sélectionne la carte `"BBC micro:bit CMSIS-DAP"` à associer, puis on clique sur le bouton `Connexion` pour établir la communication ;
+        - Une fois connecté, on clique sur le bouton `Flash` pour charger le programme qui s'exécutera dès que la LED jaune située à l'arrière de la carte aura fini de clignoter ;
+        - Pour revoir le résultat du programme une nouvelle fois, il faut redémarrer le BBC micro:bit en appuyant sur le bouton `RESET` situé à l'arrière de la carte...
+
+    **Autres possibilités** :
+
+    - [L'éditeur Mu](https://codewith.mu/){target=_blank} sur PC ;
+    - [microsoft makecode](https://makecode.microbit.org/){target=_blank} ;
+    - [vittascience](https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1){target=_blank} ;
+
+
 <!-- 
 http://2si.si.lycee.ecmorlaix.fr/Robotique/BBCmicrobit.html
  -->
+
