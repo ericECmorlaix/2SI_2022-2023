@@ -29,16 +29,14 @@
     4. **Fichier > Nouveau Projet**  =>  créer une nouvelle trame de programmation personnalisée et la partager...
 
 ***
-
+- Synthèse "Instrument" (Salomé), "Avertisseur" (Anna) de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 -->
 ***
 ## Le 15/11
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse "Instrument","Avertisseur", "Servo chronométré" de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
-    - Synthèse Modélisation 3D avec [BlocksCAD](./blocksCAD){target="_blank"} -> ==**Défin n°2 : Modéliser un support imprimable**== ;
+    - Synthèse "Instrument","Avertisseur", "Servo chronométré" de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;    
 
     - **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
 
