@@ -32,7 +32,7 @@
 
 -->
 ***
-## Le 15/11
+## Les 15 et 22/11
 
 === "CONTENU DE SÉANCE"
 
