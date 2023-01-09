@@ -16,19 +16,43 @@
 ![features_overview](images/undraw_features_overview_jg7a.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
-<!-- 
-
-
-
-## Le 07/06 :
-
-
 
 ***
+## Le 10/01
 
--->
-***
-## Le 29/11
+=== "CONTENU DE SÉANCE"
+
+    ### Présentation de l'environnement de travail :
+    
+    - Dépot [GitHub](https://github.com/ericECmorlaix/2SI_2022-2023){target="_blank"} qui héberge ce site ;
+    - Organisation du Labo de SI ;
+    - Applications iPad utiles : **Obsidian**, **Carnets**, **EV3 Classroom**, OnShape, Mindomo, Sketchbook, ...   
+
+    ### Prise en main d'[Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour communiquer un compte rendu :
+
+    ![work](images/undraw_Work_time_re_hdyv.svg){: .center width=40%}
+
+    - **installer** l'application **Obsidian** depuis la bibliothèque d'applications **Eleve** ;
+    - **créer** un dossier nommé `SI` dans votre coffre d'Obsidian ;
+    - **Télécharger** au format [MarkDown](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/1a-MarkDown/){target="_blank"} le [fichier de renseignements](https://codimd.apps.education.fr/Xn2RTNdfTP-kCRejDQ41lw){target="_blank"} ;
+    - **déplacer**  votre fichier `Fiche_SI.md` depuis le dossier `Téléchargements` vers le dossier nommé `SI` de votre coffre d'Obsidian ;
+    - **renommer** le au format `Nom_Prenom-Fiche_SI.md` ;
+    - **éditer** ce fichier dans **Obsidian** pour le compléter...
+
+    ![PJ](images/undraw_attached_file_re_0n9b.svg){: .center width=30%}
+    
+    - **transmettre** votre fichier `Nom_Prenom-Fiche_SI.md` en pièce jointe d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr) ;
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown d'[Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour **améliorer** votre fiche d'informations et la **retransmettre** par [mail] ;
+
+    - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
+
+
+<!-- ## Le 29/11
 
 === "CONTENU DE SÉANCE"
 
@@ -225,7 +249,7 @@
 
     - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
-
+ -->
 
 
 

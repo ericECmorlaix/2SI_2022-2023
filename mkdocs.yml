@@ -21,11 +21,12 @@ site_author: "Eric MADEC"
 docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
-    - Cahier de texte : index.md    
+    - Cahier de texte : index.md
+    - Fiche : Fiche_SI.md    
     # - Fiche d'information : Nom_Prenom-fiche.ipynb    
-    - Notebook jupyter : notebook.md
-    - Modélisation 3D : blocksCAD.md
-    - BBC micro:bit : bbc_microbit/index.md
+    # - Notebook jupyter : notebook.md
+    # - Modélisation 3D : blocksCAD.md
+    # - BBC micro:bit : bbc_microbit/index.md
 
         
     #   - La spécialité SI : presentation_SI.md
